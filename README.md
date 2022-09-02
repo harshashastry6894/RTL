@@ -6,3 +6,4 @@
 # Description
 1. test.only('test', () => {}) -> only test this methods
 2. test.skip(test', () => {}) -> skip this method
+3. with jest we can use it instead of test
